@@ -1,3 +1,2 @@
-# thesis_2023
-Thesis of Marc during the master Data Science and Society wherein I compared various machine- and deep learning models to analyse sentiment on Amazon consumer reviews. 
-The thesis was graded by two supervisors with an 7.5 after resubmission.
+# Additional information CV
+In this Github repository you can find additional information written in my CV. Most of this information is in regard of the thesis and certificates obtained by the user. 
